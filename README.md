@@ -20,7 +20,7 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student in Electronics and Communication Engineering with an interest in Machine Learning and Problem Solving. Currently, I am working on Image Processing using Deep Learning, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I love to learn new technologies and play around with building stuffs with 0's and 1's to explore more avenues to improve existing systems and invent solutions to real life problems.
+I'm a final year undergraduate student in Electronics and Communication Engineering with an interest in Machine Learning and Problem Solving. Currently, I am working on Image Processing using Deep Learning, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I love to learn new technologies and play around with building stuffs with 0's and 1's to explore more avenues to improve existing systems and invent solutions to real life problems.
 
 <br>
 <br>
